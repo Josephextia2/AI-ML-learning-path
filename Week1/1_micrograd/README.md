@@ -1,4 +1,5 @@
 Knowledge from seminar: micrograd for backward propagation
+
 Materials: ipynb is the notes of "Neural Networks: Zero to Hero Lesson 1", The spelled-out intro to neural networks and backpropagation: building micrograd.
 
 Homework:
