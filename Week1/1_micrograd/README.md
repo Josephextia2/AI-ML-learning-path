@@ -1,4 +1,4 @@
-Knowledge from seminar: micrograd for backward propagation
+Knowledge from seminar: Backward propagation by micrograd. Understanding the correlation between the inputs and outputs in AI language. Each neuron obeys \sum w_i * x_i + b_i, where w and b are weights and bases respectively, while x is input. The weights and bases are adjusted via adding their gradients times learning rate in each iteration. This is imilar to Euler method y_{n+1} = y_{n} + dy_n/dx * dx, dx ~ learning rate. 
 
 Materials: ipynb is the notes of "Neural Networks: Zero to Hero Lesson 1", The spelled-out intro to neural networks and backpropagation: building micrograd.
 
