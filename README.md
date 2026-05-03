@@ -6,3 +6,4 @@ Week 1: Basic knowledge of Python in AI/ML and Pytorch (Materials: Andrej Karpat
   - Lesson 2: Fundamental knowledge of Deep learning and Pytorch in language model [Pytorch].
   - Lesson 3: Knowledge of expansion of input data to higher dimensional vectors [Pytorch].
   - Lesson 4: Knowledge of initialization of a neural network and BatchNorm1D [Pytorch].
+  - Lesson 5: Knowledge of the principle of loss.backward (gradient of loss) [Mathematical derivation].
