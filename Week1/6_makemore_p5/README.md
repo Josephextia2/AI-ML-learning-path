@@ -4,4 +4,4 @@ Homeworks:
 
 1. Understand the concepts and tidy up to a py script.
 
-2. Use nn.torch to reproduce the HW1. 
+2. Use nn.torch to reproduce the HW1. (Remarks: helps are got by GPT)
