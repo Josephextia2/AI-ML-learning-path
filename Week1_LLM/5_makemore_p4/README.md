@@ -1,0 +1,1 @@
+To understand the principles of loss backward. The mathematical derviation of gradient of loss.
